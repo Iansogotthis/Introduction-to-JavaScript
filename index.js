@@ -94,6 +94,12 @@ Use the hungryDog function and feeding requirements below to do the following:
 2. Also, pass to hungryDog an age value in years (note: if the dog is a puppy, the age will be a decimal. For example: three months = 3/12 or .25)
 3. Do the proper calculations and return the number of pounds of raw food to feed the dog/puppy in a day
 
+
+
+
+
+
+blah
 REMEMBER: This program should handle correctly adult AND puppy ages and weights
 
 Feeding Requirements:
